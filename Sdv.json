@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "m0stafa",
+        "name": "Sdv",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/github.com\/m0oztafa\/ERM\/blob\/main\/SDV%20BCKG.jpg?raw=true"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 789516,
+        "accent": -15917730,
+        "mention_highlight": -1788928,
+        "input_background": -687403708,
+        "blocked_bg": -16777216
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
